@@ -14,7 +14,6 @@ This project is the server side for managing trucks, deliveries, drivers, routes
 - 📊 Resource controllers
 - 📦 Simple scalable architecture
 - 🧪 Tested routes
-
 ---
 
 ## 🧰 Tech Stack
@@ -91,3 +90,4 @@ Use tools like Postman or Insomnia to test API routes.
 
 🧪 Testing
 php artisan test
+
